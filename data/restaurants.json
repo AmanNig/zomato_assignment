@@ -1,0 +1,114 @@
+{
+    "restaurants": [
+      {
+        "name": "Spice Garden",
+        "location": "456 Curry Lane, Mumbai",
+        "cuisine": "North Indian",
+        "rating": 4.5,
+        "menu": [
+          {
+            "name": "Butter Chicken",
+            "description": "Tandoori chicken in rich tomato and butter gravy",
+            "price": "₹450",
+            "tags": ["non-veg", "mild spice", "tandoori"]
+          },
+          {
+            "name": "Dal Makhani",
+            "description": "Creamy black lentils slow-cooked overnight",
+            "price": "₹300",
+            "tags": ["veg", "gluten-free", "mild spice"]
+          }
+        ],
+        "hours": "11:00 AM - 11:00 PM",
+        "contact": "+91 9876543210"
+      },
+      {
+        "name": "Dosa Palace",
+        "location": "123 Masala Street, Bangalore",
+        "cuisine": "South Indian",
+        "rating": 4.2,
+        "menu": [
+          {
+            "name": "Masala Dosa",
+            "description": "Crispy rice crepe with spiced potato filling",
+            "price": "₹180",
+            "tags": ["veg", "gluten-free"]
+          },
+          {
+            "name": "Filter Coffee",
+            "description": "Traditional South Indian decoction coffee",
+            "price": "₹60",
+            "tags": ["beverage", "veg"]
+          }
+        ],
+        "hours": "7:00 AM - 10:30 PM",
+        "contact": "+91 9876543211"
+      },
+      {
+        "name": "Kolkata Biryani House",
+        "location": "78 Spice Road, Kolkata",
+        "cuisine": "Bengali",
+        "rating": 4.7,
+        "menu": [
+          {
+            "name": "Mutton Biryani",
+            "description": "Fragrant rice with tender mutton and boiled egg",
+            "price": "₹350",
+            "tags": ["non-veg", "medium spice"]
+          },
+          {
+            "name": "Mishti Doi",
+            "description": "Traditional Bengali sweet yogurt",
+            "price": "₹90",
+            "tags": ["veg", "dessert"]
+          }
+        ],
+        "hours": "12:00 PM - 11:00 PM",
+        "contact": "+91 9876543212"
+      },
+      {
+        "name": "Gujarati Thali",
+        "location": "56 Namaste Circle, Ahmedabad",
+        "cuisine": "Gujarati",
+        "rating": 4.3,
+        "menu": [
+          {
+            "name": "Full Gujarati Thali",
+            "description": "Complete meal with 5 vegetables, dal, rice, roti and sweets",
+            "price": "₹250",
+            "tags": ["veg", "thali", "balanced meal"]
+          },
+          {
+            "name": "Dhokla",
+            "description": "Steamed fermented chickpea flour snack",
+            "price": "₹120",
+            "tags": ["veg", "snack", "gluten-free"]
+          }
+        ],
+        "hours": "10:00 AM - 10:00 PM",
+        "contact": "+91 9876543213"
+      },
+      {
+        "name": "Punjab Da Dhaba",
+        "location": "9 Highway Road, Delhi",
+        "cuisine": "Punjabi",
+        "rating": 4.6,
+        "menu": [
+          {
+            "name": "Sarson Ka Saag",
+            "description": "Mustard greens cooked with spices, served with makki di roti",
+            "price": "₹280",
+            "tags": ["veg", "seasonal", "winter special"]
+          },
+          {
+            "name": "Lassi",
+            "description": "Sweet yogurt drink topped with malai",
+            "price": "₹80",
+            "tags": ["veg", "beverage"]
+          }
+        ],
+        "hours": "8:00 AM - 11:00 PM",
+        "contact": "+91 9876543214"
+      }
+    ]
+  } 

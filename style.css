@@ -1,0 +1,31 @@
+/* Main chat container */
+.stTextInput>div>div>input {
+    border-radius: 20px;
+    padding: 10px 15px;
+}
+
+/* Buttons */
+.stButton>button {
+    border-radius: 20px;
+    background-color: #2E86AB;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
+
+.stButton>button:hover {
+    background-color: #1B6B8F;
+    color: white;
+}
+
+/* Sidebar */
+.css-1d391kg {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+/* Chat bubbles */
+[data-testid="stMarkdownContainer"] {
+    font-family: 'Arial', sans-serif;
+} 
